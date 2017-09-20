@@ -1,0 +1,66 @@
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\ApplicationInsights.config
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\csc.exe
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\vbc.exe
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\VBCSCompiler.exe
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Henaben_Parekh_lab1.dll.config
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Henaben_Parekh_lab1.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Henaben_Parekh_lab1.pdb
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.Web.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.ApplicationInsights.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.Web.xml
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.ApplicationInsights.xml
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\obj\Debug\Henaben_Parekh_lab1.csprojResolveAssemblyReference.cache
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\obj\Debug\Henaben_Parekh_lab1.dll
+c:\users\300931338\documents\visual studio 2015\Projects\Henaben_Parekh_lab1\Henaben_Parekh_lab1\obj\Debug\Henaben_Parekh_lab1.pdb
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\ApplicationInsights.config
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\csc.exe
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\vbc.exe
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Henaben_Parekh_lab1.dll.config
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Henaben_Parekh_lab1.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Henaben_Parekh_lab1.pdb
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.Web.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.Web.xml
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\obj\Debug\Henaben_Parekh_lab1.csprojResolveAssemblyReference.cache
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\obj\Debug\Henaben_Parekh_lab1.dll
+C:\Users\Mogli\Downloads\Henaben_Parekh_lab1\Henaben_Parekh_lab1\obj\Debug\Henaben_Parekh_lab1.pdb
